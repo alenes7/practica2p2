@@ -34,6 +34,7 @@ p.borde-dos {
     font-style: italic;
     color: aliceblue;
     border-style: inset;
+    border-color: rgb(126, 85, 140);
     margin: 30px 36px;
     padding: 40px;
     background-image: none;
